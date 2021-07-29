@@ -63,7 +63,7 @@ A summary of the access policies in place can be found in the table below.
 | Jump-Box-Provisioner | No                  | My local machine’s IP address                                          |
 | Web-1 and Web-2      | No                  | My local machine’s IP address from port 5601                           |                           
 | Elk-Stack-VM         | No                  | Through the load balancer (20.85.217.178), which is connected to the   |
-|                      |                     |   Jump-Box-Provisioner (40.121.138.196)                                |
+|                      |                     | Jump-Box-Provisioner (40.121.138.196)                                  |
 -----------------------------------------------------------------------------------------------------------------------
 
 
